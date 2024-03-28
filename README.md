@@ -74,10 +74,10 @@ Clubs are particulary interested in being able to track data for their players, 
 <img width="1116" alt="Query 1" src="https://github.com/RyanDyals/MIST-4610---Project-1---Group-7/assets/134531824/73eee8a9-02ad-4e50-a378-231cd339495f">
 
 
-Query 1 is significant for the managerial aspect of a soccer club as they must handle players who either have not signed their offered contract or have a contract that recently expired. This query allows the club to see these player's and contact them regarding their contract.
+Query 1 is significant for the managerial aspect of a soccer club as they must handle players who either have not signed their offered contract or have a contract that recently expired. This query allows the club to see these players and contact them regarding their contract.
 
 
-**#2** This query retrieves the total number of goals scored by ecah player in each match and lists them in descending order of total goals scored.
+**#2** This query retrieves the total number of goals scored by each player in each match and lists them in descending order of total goals scored.
 <img width="1107" alt="Query 2" src="https://github.com/RyanDyals/MIST-4610---Project-1---Group-7/assets/134531824/3b7c4427-67d8-4ffb-8a85-331b679edebd">
 
 Query 2 allows for the soccer club to keep track of key statistics by match for each player. This one specifcally tracks goals scored. This query allows for management to quickly look at match data for each player by a metric such as goals scored.
@@ -96,12 +96,12 @@ Soccer clubs often have to analyze which players need more training or need to b
 **#5** This query shows the top two pieces of equipment that have issues in the soccer club. It also lists the staff member that checked the equipment and found an issue.
 <img width="1136" alt="Query 5" src="https://github.com/RyanDyals/MIST-4610---Project-1---Group-7/assets/134531824/345b27a6-023a-4ebe-82af-10fc1915e3b1">
 
-Query 5 allows for the management of the soccer club to see what pieces of equipment are having the most trouble as well as the staff member who checked them. This allows them to see what pieces need to be serviced or replaced and what staff member should contacted about the issue.
+Query 5 allows for the management of the soccer club to see what pieces of equipment are having the most trouble as well as the staff member who checked them. This allows them to see what pieces need to be serviced or replaced and what staff member should be contacted about the issue.
 
 **#6** This query shows the first and last names of players, and the amount of their contract who have a contract amount greater than the of average all contracts within the soccer club.
 <img width="714" alt="Query 6" src="https://github.com/RyanDyals/MIST-4610---Project-1---Group-7/assets/134531824/0b9b5b6c-0751-4d5d-bbb8-2a983121bda7">
 
-Query 6 can be useful for a soccer club's recruitment process. New and upcoming players often want to know that they can end up making if they join and stay on the team. This query allows management to show prospective players other players that are currently on the team and how they much they make relative to everyone else. 
+Query 6 can be useful for a soccer club's recruitment process. New and upcoming players often want to know that they can end up making a lot of money if they join and stay on the team. This query allows management to show prospective players other players that are currently on the team and how they much they make relative to everyone else. 
 
 **#7** This query lists the bottom four players on the team in terms of total time spent in agility training sessions and their respective time spent in agility training. It is ordered by least to greatest.
 
@@ -119,9 +119,9 @@ Query 8 is great for a soccer club's marketing purposes. This query allows the c
 **#9** This query lists the match date, stadium ID, matchRevenue, matchID, and player name for matches where revenue was greater than the average of all matches and at least one goal was scored.
 <img width="739" alt="Query 9" src="https://github.com/RyanDyals/MIST-4610---Project-1---Group-7/assets/134531824/dc636ff5-2bb1-466f-89c8-5f6c70a1eaf9">
 
-Query 9 allows for management of the soccer club to quickly see games that had meaningful action also garnered high revenue. This means that when the editing team is creating videos it can quickly identify what games at least had the team score one goal and also brought high revenue. This would make the editing team more efficient and have less time deciding what matches to pull clips from.
+Query 9 allows for management of the soccer club to quickly see games that had meaningful action and also garnered high revenue. This means that when the editing team is creating videos it can quickly identify what games at least had the team score one goal and also brought high revenue. This would make the editing team more efficient and have less time deciding what matches to pull clips from.
 
-**#10** This query lists the contractID,contract amount, contract length coachID, and coach position for coaches whose contracts only has 2 years or less remaining.
+**#10** This query lists the contractID, contract amount, contract length coachID, and coach position for coaches whose contracts only has 2 years or less remaining.
 
 <img width="708" alt="Query 10" src="https://github.com/RyanDyals/MIST-4610---Project-1---Group-7/assets/134531824/5df5ed36-57c3-4fb6-8c1c-b86712ff56a8">
 
